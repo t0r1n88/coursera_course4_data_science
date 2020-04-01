@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 work/week_6/data
+work/week_6/Logs
 data/
 img/
 downloads/
